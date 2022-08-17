@@ -12,11 +12,9 @@
 
 <details>
     <summary>第 1 题的答案</summary>
-```markdown
-_\*\*_
-```
-
-其他数量就增加 \\* 即可。
+_\*\*_<br>
+<br>
+其他数量就增加 \* 即可。
 </details>
 
 ## 第 2 题
@@ -25,11 +23,9 @@ _\*\*_
 
 <details>
     <summary>第 2 题的答案</summary>
-```markdown
-**\_\_**
-```
-
-其他数量就增加 \\_ 即可。
+**\_\_**<br>
+<br>
+其他数量就增加 \_ 即可。
 </details>
 
 ## 第 3 题
@@ -37,11 +33,9 @@ _\*\*_
 在内联元素 (Inlines) 中使用反引号，比如「a\`b」「\`ab」
 
 <details>
-    <summary>第 2 题的答案</summary>
-```markdown
-``a`b``
-`` `ab``
-```
-
+    <summary>第 3 题的答案</summary>
+``a`b``<br>
+`` `ab``<br>
+<br>
 第二个答案稍微在不同的 Markdown 渲染器上有些差异。
 </details>
